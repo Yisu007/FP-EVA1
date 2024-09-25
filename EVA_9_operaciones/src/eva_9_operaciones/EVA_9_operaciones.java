@@ -20,7 +20,7 @@ public class EVA_9_operaciones {
         int x = 10; //DECLARACION Y ASIGNACION 
         int y = 5;
         // si necesitan muchas variables 
-        int suma,multi,divot, raiz,resta;
+        int suma,multi,divit, raiz,resta;
         // suma y resta ¨*
         suma= x + y; //operacion de suma 
         System.out.print(" la suma de x+y");
@@ -33,7 +33,7 @@ public class EVA_9_operaciones {
          System.out.print(resta);
          
          multi= x+y; //operacion de multiplicasion
-          System.out.println("la pultiplicacion de x+y");
+          System.out.println("la multiplicacion de x+y");
            System.out.print(multi);
            
        
